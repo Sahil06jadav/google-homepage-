@@ -1,0 +1,170 @@
+
+
+body{
+    background-color: #101218;
+}
+#body{
+    display: flex;
+    flex-direction: column;
+    height: 620px;
+    justify-content: center;
+}
+header{
+    position: sticky;
+    top: 0;
+    height: 51.75px;   
+    background-color:#101218;
+}
+#navbar{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    font-size: 14px;
+    height: 100%;
+    color: white;
+}
+#div1{
+    display: flex;
+    flex-direction: row;    
+    width: 50%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#div2{
+    display: flex;
+    flex-direction: row;    
+    width: 50%;
+    justify-content: flex-end;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#about{
+    align-self: center;
+    margin: 0 21px 0 15px;
+}
+#store{
+    align-self: center;
+}
+#accround{
+    background-color: rgb(160, 55, 235);
+    height: 30px;
+    width: 30px;
+    border-radius: 50%; 
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-self: center;
+}
+#s{
+    align-self: center;
+    font-size: 20px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#gmail{
+    align-self: center;
+    margin-right: 20px;
+}
+#dots{
+    align-self: center;
+    margin-right: 20px;
+    margin-left: 10px;
+    justify-content: center;
+}
+#images{
+    align-self: center;
+    margin-right: 10px;
+}
+ul{
+    display: flex;
+}
+footer{
+    position: relative;
+    bottom: 0;
+    height: 90px;   
+    background-color: #1e2028;
+}
+#logo{
+    align-self: center;
+    color: white;
+    font-size: 80PX;
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+}
+#searchbar{
+    align-self: center;
+}
+#buttons{
+    display: flex;
+    align-self: center;
+}
+#line1{
+    align-self: center;
+}
+#line2{
+    margin-top: 15px;
+    align-self: center;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+}
+#box{
+    background-color: #3f4454;
+    width: 520.6px;
+    height: 46px;
+    border-radius: 40px;
+    margin: 30px 0 20px 0 ;
+    display: flex;
+    justify-content: space-between;
+}
+#searchicon{
+    align-self: center;
+    color: #a7abb9;
+    margin-left: 20px;
+}
+#cameraandmicicon{
+    display: flex;
+}
+
+#micicon{
+    align-self: center;
+    color: #a7abb9;
+    margin-left: 20px;
+}
+#cameraicon{
+    align-self: center;
+    color: #a7abb9;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+button{
+    height: 36px;
+    width: 127px;
+    margin: 8px;
+    background-color: #3f4454;
+    color: white;
+    border-radius: 4px;
+    border: 1px solid #303134;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#hindi{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #7eaaff;
+}
+a{
+    text-decoration: none;
+    padding: 0 5px 0 0 ;
+}
+#g{
+    color: rgb(54, 108, 223);
+}
+#o1{
+    color: rgb(205, 65, 65);
+}
+#o2{
+    color: rgb(225, 148, 31);
+}
+#l{
+    color: rgb(37, 174, 37);
+}
+#e{
+    color: rgb(205, 65, 65);
+}
